@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"name": "Fish with starship and vim dotfiles",
 	"description": "A feature to configure fish shell and vim",
-	"installAfter": [
+	"installsAfter": [
 		"ghcr.io/guiyomh/features/vim",
 		"ghcr.io/devcontainers-extra/features/fish-apt-get",
 		"ghcr.io/devcontainers-extra/features/starship"
