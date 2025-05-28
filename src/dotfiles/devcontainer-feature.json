@@ -7,6 +7,5 @@
         "ghcr.io/guiyomh/features/vim",
         "ghcr.io/devcontainers-extra/features/fish-apt-get",
         "ghcr.io/devcontainers-extra/features/starship"
-    ],
-    "privileged": true
+    ]
 }
