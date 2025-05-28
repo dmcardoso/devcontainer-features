@@ -1,6 +1,6 @@
 {
     "id": "dotfiles",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "name": "Fish with starship and vim dotfiles",
     "description": "A feature to configure fish shell and vim",
     "installsAfter": [
