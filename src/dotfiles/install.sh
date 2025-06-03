@@ -24,4 +24,4 @@ echo "deb [signed-by=/etc/apt/keyrings/gierens.gpg] http://deb.gierens.de stable
 chmod 644 /etc/apt/keyrings/gierens.gpg /etc/apt/sources.list.d/gierens.list
 
 sudo apt update
-sudo apt install -y gpg eza bat fzf vim
+sudo apt install -y gpg eza
